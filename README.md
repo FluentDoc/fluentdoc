@@ -103,12 +103,22 @@ Please keep changes focused and well-documented.
 
 ---
 
-## 👥 Authors
+## � Contact Us
+
+Have questions, feedback, or want to collaborate? We'd love to hear from you!
+
+- **General inquiries:** patrick_gaston@fluentdoc.com
+- **Bug reports & feature requests:** Open an issue on GitHub
+- **Questions about contributing:** Reach out to Patrick Gaston or Judy Switzer
+
+---
+
+## �👥 Authors
 
 FluentDoc is created and maintained by:
 
-- Patrick Gaston (Owner)
-- Judy Switzer
+- Patrick Gaston (Owner) - patrick_gaston@fluentdoc.com
+- Judy Switzer - judy_switzer@fluentdoc.com
 - Jessica Yuan
 - Johnny Bui
 
